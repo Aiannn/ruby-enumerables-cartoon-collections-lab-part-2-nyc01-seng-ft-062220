@@ -51,7 +51,7 @@ describe "./cartoon_collections.rb" do
 end
 
    
- end
+# end
 
  #describe "takes in an array of strings and" do
   # small_calls = ["earth", "wind", "fire", "water", "heart"]
